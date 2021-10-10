@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Dados';
+  DadoIzquierda ="../assets/img/dice1.png";
+  DadoDerecha="../assets/img/dice4.png";
 }
